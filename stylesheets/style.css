@@ -4,6 +4,12 @@ body
     margin: auto;
 }
 
+a:-webkit-any-link
+{
+    color: #fff;
+    text-decoration: none;
+}
+
 #header
 {
     border-radius: 10px;
